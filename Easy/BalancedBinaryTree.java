@@ -1,9 +1,5 @@
 package Easy;
 
-import java.util.Deque;
-import java.util.LinkedList;
-import java.util.Queue;
-
 import Classes.TreeNode;
 
 public class BalancedBinaryTree {
@@ -25,7 +21,7 @@ public class BalancedBinaryTree {
         int left = find(current.left);
         int right = find(current.right);
 
-        if(Math.abs(left - right) > 1){
+        if (Math.abs(left - right) > 1) {
             balanced = false;
             return 0;
         }
