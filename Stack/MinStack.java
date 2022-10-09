@@ -1,4 +1,4 @@
-package Medium;
+package Stack;
 
 class MinStack {
     private class Node {

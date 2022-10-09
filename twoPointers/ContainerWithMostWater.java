@@ -1,4 +1,4 @@
-package Medium;
+package twoPointers;
 
 public class ContainerWithMostWater {
     public int maxArea(int[] height) {

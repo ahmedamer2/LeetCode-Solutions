@@ -1,4 +1,4 @@
-package Easy;
+package BinarySearch;
 
 public class BinarySearch {
     public int search(int[] nums, int target) {

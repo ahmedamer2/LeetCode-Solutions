@@ -1,4 +1,4 @@
-package Medium;
+package Trees;
 
 import Classes.TreeNode;
 

@@ -1,4 +1,4 @@
-package Easy;
+package twoPointers;
 
 public class IsPalindrome {
     public boolean isPalindrome(String s) {
